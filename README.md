@@ -7,7 +7,7 @@
 - 📫 How to reach me discord: mint-hack #2437...
 
 ## About me!
-Hey everyone! My name is Amisha, and I'm an Austinite. I enjoy making things (involving both hardware and software), doing CS for research, designing aesthetic UIs, and running/attending hackathons.
+Hey everyone! I'm Amisha. I enjoy making things (involving both hardware and software), doing CS for research, designing aesthetic UIs, and running/attending hackathons. From tinkering with robotics to researching LLMOPs, programming has changed my outlook on the future of tech. My projects often have a creative or artsy UI:D
 
 Away from school, I spend my time working with friends on Rock Hacks, working at the Applied Research Labs at UT, and playing sports!
 
