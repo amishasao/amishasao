@@ -1,7 +1,7 @@
 # Hi! Welcome to my hackerspace! 😄
 
 - 👋 Hi, I’m @amishasao
-- 👀 I’m interested in webdev, app creation, and aesthetic UI/UX...
+- 👀 I’m interested in webdev, LLMOPs, and aesthetic UI/UX...
 - 🌱 I’m currently learning React, node, and java...
 - 💞️ I’m looking to collaborate on webdev projects...
 - 📫 How to reach me discord: mint-hack #2437...
@@ -12,6 +12,9 @@ Hey everyone! I'm Amisha. I enjoy making things (involving both hardware and sof
 Away from school, I spend my time working with friends on Rock Hacks, working at the Applied Research Labs at UT, and playing sports!
 
 Feel free to reach out!
+
+## Programming Languages
+
 
 <!---
 amishasao/amishasao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
